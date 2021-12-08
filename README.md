@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Creatormax/Creatormax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Héctor Francisco Morales Aguilar. I'm a student at UC3M and at 42 Madrid. <br>Glad to meetcha!!!
 
-Here are some ideas to get you started:
+ Here I've got all my "important" projects from both the college and 42. You are free to look arround but beware copying my work will get you nowhere and even kciked out from wherever you are studying!
+ 
+## 42
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Creatormaxx/42-Cursus">
+  <img align="right" src="https://badge42.herokuapp.com/api/stats/hmorales?privacyName=true" />
+</a>
+
+| 42 Project       | Mark                                                                                                                                          |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Libft](https://github.com/Creatormax/42-Cursus/libft)         | [![hmorales's 42Project Score](https://badge42.herokuapp.com/api/project/hmorales/Libft)](https://badge42.herokuapp.com/api/project/hmorales/Libft)                  |
+| [ft_printf](https://github.com/Creatormax/42-Cursus/ft_printf)     | [![hmorales's 42Project Score](https://badge42.herokuapp.com/api/project/hmorales/ft_printf)](https://badge42.herokuapp.com/api/project/hmorales/ft_printf)              |
+
+<br>
+
+## UC3M (Electronics and Automatics Engeeniering)
