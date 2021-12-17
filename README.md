@@ -14,6 +14,9 @@
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Libft](https://github.com/Creatormax/42-Cursus/libft)         | [![hmorales's 42Project Score](https://badge42.herokuapp.com/api/project/hmorales/Libft)](https://badge42.herokuapp.com/api/project/hmorales/Libft)                  |
 | [ft_printf](https://github.com/Creatormax/42-Cursus/ft_printf)     | [![hmorales's 42Project Score](https://badge42.herokuapp.com/api/project/hmorales/ft_printf)](https://badge42.herokuapp.com/api/project/hmorales/ft_printf)              |
+| [B2bRoot](https://github.com/Creatormax/42-Cursus/born2beroot)     | [![hmorales's 42Project Score](https://badge42.herokuapp.com/api/project/hmorales/Born2beroot)](https://badge42.herokuapp.com/api/project/hmorales/Born2beroot)              |
+| [GNL](https://github.com/Creatormax/42-Cursus/get_next_line)     | [![hmorales's 42Project Score](https://badge42.herokuapp.com/api/project/hmorales/get_next_line)](https://badge42.herokuapp.com/api/project/hmorales/get_next_line)              |
+
 
 <br>
 
